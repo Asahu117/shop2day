@@ -538,7 +538,7 @@ header .header-2.header-active{
 }
 
 .deal .icons-container .icons{
-    flex:1 -1 25rem;
+    flex:1 1 25rem;
     padding:1rem;
     margin:1rem;
     text-align: center;
